@@ -36,7 +36,7 @@ You can find me on:
         <td align="center"><a href="https://cryptohack.org/user/thibaultserti">https://cryptohack.org</a></td>
     </tr>
     <tr>
-        <td align="center"><img src="./try-hackme.svg" width=100px height=50px/></td>
+        <td align="center"><img src="./try-hackme.png" width=100px height=50px/></td>
         <td align="center"><a href="https://tryhackme.com/p/thibaultserti)">https://tryhackme.com</a></td>
     </tr>
     <tr>
