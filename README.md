@@ -27,7 +27,7 @@ You can find me on:
 <table align="center">
     <tr>
         <td align="center"><img src="./root-me.png" width=50px height=50px/></td>
-      <td align="center"><a href="https://root-me.org/thibaultserti">https://root-me.org</a></td>
+      <td align="center"><a href="https://root-me.org/Thibault-Serti">https://root-me.org</a></td>
     </tr>
     <tr>
         <td align="center"><img src="./cryptohack.png" width=50px height=50px/></td>
@@ -35,7 +35,7 @@ You can find me on:
     </tr>
     <tr>
         <td align="center"><img src="./try-hackme.png" width=100px height=50px/></td>
-        <td align="center"><a href="https://tryhackme.com/p/thibaultserti)">https://tryhackme.com</a></td>
+        <td align="center"><a href="https://tryhackme.com/p/thibaultserti">https://tryhackme.com</a></td>
     </tr>
     <tr>
         <td align="center"><img src="./hackthebox.png" width=50px height=50px/></td>
@@ -52,7 +52,5 @@ You can find some of my projects below!
 
 <i>Statistics shown below:</i>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thibaultserti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thibaultserti&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultserti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-|
