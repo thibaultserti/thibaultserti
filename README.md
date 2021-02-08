@@ -26,23 +26,23 @@ You can find me on:
 
 <table align="center">
     <tr>
-        <td align="center"><img src="./root-me.png" width=50px height=50px/></td>
+        <td align="center"><img src="./logos/root-me.png" width=50px height=50px/></td>
       <td align="center"><a href="https://root-me.org/Thibault-Serti">https://root-me.org</a></td>
     </tr>
     <tr>
-        <td align="center"><img src="./cryptohack.png" width=50px height=50px/></td>
+        <td align="center"><img src="./logos/cryptohack.png" width=50px height=50px/></td>
         <td align="center"><a href="https://cryptohack.org/user/thibaultserti">https://cryptohack.org</a></td>
     </tr>
     <tr>
-        <td align="center"><img src="./try-hackme.png" width=100px height=50px/></td>
+        <td align="center"><img src="./logos/try-hackme.png" width=100px height=50px/></td>
         <td align="center"><a href="https://tryhackme.com/p/thibaultserti">https://tryhackme.com</a></td>
     </tr>
     <tr>
-        <td align="center"><img src="./hackthebox.png" width=50px height=50px/></td>
+        <td align="center"><img src="./logos/hackthebox.png" width=50px height=50px/></td>
         <td align="center"><a href="https://www.hackthebox.eu/home/users/profile/384113">https://hackthebox.eu</a></td>
     </tr>
     <tr>
-        <td align="center"><img src="./newbie-contest.png" width=50px height=50px/></td>
+        <td align="center"><img src="./logos/newbie-contest.png" width=50px height=50px/></td>
         <td align="center"><a href="https://www.newbiecontest.org/index.php?page=info_membre&id=85319">https://newbiecontest.org</a></td>
     </tr>
 </table>
