@@ -23,12 +23,14 @@ jobs:
           cd badges-0.1.0
           wget https://github.com/thibaultserti/badges/releases/download/v0.1.0/badges -O badges
           chmod +x badges
-          ./badges --website cryptohack    --username thibaultserti  --theme dark && cp cryptohack.png badges/
-          ./badges --website rootme        --username Thibault-Serti --theme dark && cp rootme.png badges/
-          ./badges --website newbiecontest --username 85319          --theme light && cp newbiecontest.png badges/
+          ./badges --website cryptohack    --username thibaultserti  --theme dark && cp cryptohack.png ../badges/
+          ./badges --website rootme        --username Thibault-Serti --theme dark && cp rootme.png ../badges/
+          ./badges --website newbiecontest --username 85319          --theme light && cp newbiecontest.png ../badges/
+          cd ..
           wget https://projecteuler.net/profile/alvin666.png -O badges/projecteuler.png
           wget https://tryhackme-badges.s3.amazonaws.com/thibaultserti.png -O badges/tryhackme.png
           wget http://www.hackthebox.eu/badge/image/384113 -O badges/hachthebox.png
+
       - name: Add badges and commit
         uses: EndBug/add-and-commit@v7
         with:
