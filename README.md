@@ -27,23 +27,33 @@ You can find me on:
 <table align="center">
     <tr>
         <td align="center"><img src="./logos/root-me.png" width=50px height=50px/></td>
-      <td align="center"><a href="https://root-me.org/Thibault-Serti">https://root-me.org</a></td>
+        <td align="center"><a href="https://root-me.org/Thibault-Serti">https://root-me.org</a></td>
+        <td align="center"><img src="./badges/rootme.png" width=300px height=150px/></td>
     </tr>
     <tr>
         <td align="center"><img src="./logos/cryptohack.png" width=50px height=50px/></td>
         <td align="center"><a href="https://cryptohack.org/user/thibaultserti">https://cryptohack.org</a></td>
+        <td align="center"><img src="./badges/cryptohack.png" width=300px height=150px/></td>
     </tr>
     <tr>
         <td align="center"><img src="./logos/try-hackme.png" width=100px height=50px/></td>
         <td align="center"><a href="https://tryhackme.com/p/thibaultserti">https://tryhackme.com</a></td>
+        <td align="center"><img src="./badges/tryhackme.png" width=300 height=75></td>
     </tr>
     <tr>
         <td align="center"><img src="./logos/hackthebox.png" width=50px height=50px/></td>
         <td align="center"><a href="https://www.hackthebox.eu/home/users/profile/384113">https://hackthebox.eu</a></td>
+        <td align="center"><img src="./badges/hackthebox.png" width=300px height=75px></td>
     </tr>
     <tr>
         <td align="center"><img src="./logos/newbie-contest.png" width=50px height=50px/></td>
         <td align="center"><a href="https://www.newbiecontest.org/index.php?page=info_membre&id=85319">https://newbiecontest.org</a></td>
+        <td align="center"><img src="./badges/newbiecontest.png" width=300px height=150px></td>
+    </tr>
+     <tr>
+        <td align="center"><img src="./logos/projecteuler.png" width=100px height=50px/></td>
+        <td align="center"><a href="https://projecteuler.net/progress=alvin666">https://projecteuler.net</a></td>
+        <td align="center"><img src="./badges/projecteuler.png" width=300px height=120px></td>
     </tr>
 </table>
 
