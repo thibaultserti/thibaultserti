@@ -20,7 +20,7 @@ jobs:
         run: |
           pwd
           cd badges
-          wget https://github.com/thibaultserti/badges/releases/download/0.1.0/badges -O badges
+          wget https://github.com/thibaultserti/badges/releases/download/v0.1.0/badges -O badges
           chmod +x badges
           ./badges --website cryptohack    --username thibaultserti  --theme dark
           ./badges --website rootme        --username Thibault-Serti --theme dark
