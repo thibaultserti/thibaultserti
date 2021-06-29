@@ -12,7 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Welcome to my GitHub page!
+
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/thibaultserti)
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=thibaultserti.profileviews-badge)](https://github.com/thibaultserti)
+[![followers](https://img.shields.io/github/followers/thibaultserti?style=social)](https://github.com/thibaultserti?tab=followers)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ovh/debian-cis)
+[![Repos Badge](https://badges.pufler.dev/repos/thibaultserti)](https://github.com/thibaultserti?tab=repositories)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thibault-ayanides/)
 
 - 🎓 Currently studying <b>Data Science and AI at Centrale Lille, France 🇫🇷</b>
 - 💻 Currently working at <b>[OVHcloud](https://ovhcloud.com) as DevOps</b>
@@ -22,7 +30,6 @@ I like security and data science topics and I'm very interested into the their i
 
 I'm doing a lot of CTFs and challenges in every domain (reverse, scripting, crypto, ...)
 You can find me on:
-
 
 <table align="center">
     <tr>
@@ -57,10 +64,30 @@ You can find me on:
     </tr>
 </table>
 
-
 You can find some of my projects below!
 
-<i>Statistics shown below:</i>
+### Statistics shown below:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thibaultserti&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultserti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thibaultserti&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&layout=compact&include_all_commits=true" /><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibaultserti&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thibaultserti&theme=dracula" />
+</p>
+
+### Most used languages
+
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultserti&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thibaultserti&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thibaultserti&theme=dracula">
+</a>
+</p>
+
+
+
+### GitHub Trophies 🏆
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=thibaultserti&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+  </a>
+</p>
