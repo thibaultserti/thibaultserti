@@ -18,10 +18,10 @@ jobs:
         uses: actions/checkout@v2
       - name: Generate badges
         run: |
-          wget https://github.com/thibaultserti/badges/archive/v0.1.1.tar.gz
-          tar xf v0.1.1.tar.gz
-          cd badges-0.1.1
-          wget https://github.com/thibaultserti/badges/releases/download/v0.1.1/badges -O badges
+          wget https://github.com/thibaultserti/badges/archive/v0.1.2.tar.gz
+          tar xf v0.1.2.tar.gz
+          cd badges-0.1.2
+          wget https://github.com/thibaultserti/badges/releases/download/v0.1.2/badges -O badges
           chmod +x badges
           ./badges --website cryptohack    --username thibaultserti  --theme dark && cp cryptohack.png ../badges/
           ./badges --website rootme        --username Thibault-Serti --theme dark && cp rootme.png ../badges/
