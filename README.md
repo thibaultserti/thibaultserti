@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 [![Repos Badge](https://badges.pufler.dev/repos/thibaultserti)](https://github.com/thibaultserti?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thibault-ayanides/)
 
-- 🎓 Currently studying <b>Data Science and AI at Centrale Lille, France 🇫🇷</b>
-- 💻 Currently working at <b>[OVHcloud](https://ovhcloud.com) as DevOps</b>
+- 🎓 Graduated from <b>[Centrale Lille](https://centralelille.fr) as Data Science and AI specialist</b>
+- 💻 Currently working at <b>[Skale-5](https://skale-5.com) as Cloud Engineer</b>
+- ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b> 
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 I like security and data science topics and I'm very interested into the their industrialization.
