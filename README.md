@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 # Welcome to my GitHub page!
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/thibaultserti)
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=thibaultserti.profileviews-badge)](https://github.com/thibaultserti)
 [![followers](https://img.shields.io/github/followers/thibaultserti?style=social)](https://github.com/thibaultserti?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ovh/debian-cis)
 [![Repos Badge](https://badges.pufler.dev/repos/thibaultserti)](https://github.com/thibaultserti?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thibault-ayanides/)
 
 - 🎓 Graduated from <b>[Centrale Lille](https://centralelille.fr) as Data Science and AI specialist</b>
-- 💻 Currently working at <b>[Skale-5](https://skale-5.com) as Cloud Engineer</b>
+- 💻 Currently working at <b>[Skale-5](https://skale-5.com) as Cloud Architect and DevOps Engineer</b>
 - ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b> 
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
