@@ -66,14 +66,16 @@ You can find me on:
 
 You can find some of my projects below!
 
-### Statistics shown below:
+<details>
+    <summary><h3>Statistics shown below:</h3></summary>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thibaultserti&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&layout=compact&include_all_commits=true" /><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibaultserti&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thibaultserti&theme=dracula" />
 </p>
-
-### Most used languages
+</details>
+<details>
+    <summary><h3>Most used languages</h3></summary>
 
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultserti&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -81,13 +83,15 @@ You can find some of my projects below!
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thibaultserti&theme=dracula">
 </a>
 </p>
+</details>
 
 
-
-### GitHub Trophies 🏆
+<details>
+    <summary><h3>GitHub Trophies 🏆</h3></summary>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=thibaultserti&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
   </a>
 </p>
+</details>
