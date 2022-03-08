@@ -64,7 +64,28 @@ You can find me on:
     </tr>
 </table>
 
-You can find some of my projects below!
+<details>
+    <summary><h3> My technology stack</h3></summary>
+
+#### Operating System
+
+[![windows](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=blue)](https://www.microsoft.com/)
+[![macOS](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
+[![linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black)](https://linux.com/)
+[![ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange?style=flat-square&logo=ubuntu&logoColor=orange)](https://www.ubuntu.com/)
+[![debian](https://img.shields.io/badge/Debian-11-purple?style=flat-square&logo=debian&logoColor=purple)](https://www.debian.org/)
+[![manjaro](https://img.shields.io/badge/Manjaro-9fedab?style=flat-square&logo=manjaro&logoColor=#06380e)](https://www.manjaro.org/)
+
+#### Programming
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+
+#### Technology Stack
+
+
+</details>
 
 <details>
     <summary><h3>Statistics shown below:</h3></summary>
