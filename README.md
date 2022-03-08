@@ -69,22 +69,61 @@ You can find me on:
 
 #### Operating System
 
-[![windows](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=blue)](https://www.microsoft.com/)
+[![windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows&logoColor=87c9ff)](https://www.microsoft.com/)
 [![macOS](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
-[![linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black)](https://linux.com/)
-[![ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange?style=flat-square&logo=ubuntu&logoColor=orange)](https://www.ubuntu.com/)
-[![debian](https://img.shields.io/badge/Debian-11-purple?style=flat-square&logo=debian&logoColor=purple)](https://www.debian.org/)
-[![manjaro](https://img.shields.io/badge/Manjaro-9fedab?style=flat-square&logo=manjaro&logoColor=#06380e)](https://www.manjaro.org/)
+[![linux](https://img.shields.io/badge/Linux-fffd75?style=flat-square&logo=linux&logoColor=black)](https://linux.com/)
+[![ubuntu](https://img.shields.io/badge/Ubuntu-ffb980?style=flat-square&logo=ubuntu&logoColor=orange)](https://www.ubuntu.com/)
+[![debian](https://img.shields.io/badge/Debian-ffa6dd?style=flat-square&logo=debian&logoColor=751a52)](https://www.debian.org/)
+[![manjaro](https://img.shields.io/badge/Manjaro-9fedab?style=flat-square&logo=manjaro&logoColor=042b00)](https://www.manjaro.org/)
 
 #### Programming
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![Bash](https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=shell&logoColor=ffffff)](https://www.gnu.org/software/bash/)
+[![C](https://img.shields.io/badge/-C-a6daff?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/74528.html)
+[![Java](https://img.shields.io/badge/-Java-c44f60?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com)
 
-#### Technology Stack
 
+#### Virtualization
 
+[![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=ffffff)]()
+[![Docker-compose](https://img.shields.io/badge/-Docker%20Compose-0db7ed?style=flat-square&logo=docker&logoColor=ffffff)]()
+[![Vagrant](https://img.shields.io/badge/-Vagrant-3776AB?style=flat-square&logo=vagrant&logoColor=ffffff)]()
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)]()
+[![Packer](https://img.shields.io/badge/-Packer-5081d4?style=flat-square&logo=packer&logoColor=ffffff)]()
+
+#### Automation
+
+[![Terraform](https://img.shields.io/badge/-Terraform-a34fc4?style=flat-square&logo=terraform&logoColor=ffffff)]()
+[![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=ffffff)]()
+[![Puppet](https://img.shields.io/badge/-Puppet-orange?style=flat-square&logo=puppet&logoColor=ffffff)]()
+ 
+#### Network
+
+[![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=nginx&logoColor=ffffff)]()
+
+#### CI/CD
+    
+[![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=ffffff)]()
+[![Github Actions](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=ffffff)]()
+[![Gitlab CI](https://img.shields.io/badge/-Gitlab-fc6d26?style=flat-square&logo=gitlab&logoColor=ffffff)]()
+
+    
+#### Monitoring
+[![Prometheus](https://img.shields.io/badge/-Prometheus-orange?style=flat-square&logo=prometheus&logoColor=ffffff)]()
+[![Grafana](https://img.shields.io/badge/-Grafana-f56040?style=flat-square&logo=grafana&logoColor=ffffff)]()
+
+#### Storage
+
+[![Postgresql](https://img.shields.io/badge/-Postgresql-0085ad?style=flat-square&logo=postgresql&logoColor=ffffff)]()
+    
+#### Cloud
+ 
+[![GCP](https://img.shields.io/badge/-GCP-34a853?style=flat-square&logo=google&logoColor=ffffff)]()
+[![OVH](https://img.shields.io/badge/-OVH-1725e6?style=flat-square&logo=ovh&logoColor=ffffff)]()
+    
 </details>
 
 <details>
