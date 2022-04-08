@@ -92,6 +92,7 @@ You can find me on:
 [![Docker-compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=ffffff)]()
 [![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=ffffff)]()
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)]()
+[![Helm](https://img.shields.io/badge/-Helm-326CE5?style=flat-square&logo=helm&logoColor=ffffff)]()
 [![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=flat-square&logo=packer&logoColor=ffffff)]()
 
 #### Automation
