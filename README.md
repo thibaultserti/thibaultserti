@@ -112,6 +112,7 @@ You can find me on:
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)]()
 [![Github Actions](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=ffffff)]()
 [![Gitlab CI](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)]()
+[![Argocd](https://img.shields.io/badge/-Argocd-0F1689?style=flat-square&logoColor=ffffff)]()
 
     
 #### Monitoring
