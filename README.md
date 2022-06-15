@@ -118,6 +118,8 @@ You can find me on:
 #### Monitoring
 [![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)]()
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)]()
+[![Loki](https://img.shields.io/badge/-Loki-D36800?style=flat-square&logo=loki&logoColor=ffffff)]()
+    
 
 #### Storage
 
