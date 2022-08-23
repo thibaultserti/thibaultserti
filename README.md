@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/thibaultserti)
 [![followers](https://img.shields.io/github/followers/thibaultserti?style=social)](https://github.com/thibaultserti?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ovh/debian-cis)
-[![Repos Badge](https://badges.pufler.dev/repos/thibaultserti)](https://github.com/thibaultserti?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thibault-ayanides/)
 
 - 🎓 Graduated from <b>[Centrale Lille](https://centralelille.fr) as Data Science and AI specialist</b>
