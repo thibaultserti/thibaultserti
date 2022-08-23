@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b> 
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
-I like security and data science topics and I'm very interested into the their industrialization.
+I like security, ops and data science topics and I'm very interested into the their industrialization.
 
-I'm doing a lot of CTFs and challenges in every domain (reverse, scripting, crypto, ...)
+I am a [Professional Google Certified Architect](https://cloud.google.com/certification/cloud-architect), a [Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) and a [Kubernetes Certified Administrator](https://www.cncf.io/certification/cka/).
+
+I'm also doing a lot of CTFs and challenges in every domain (reverse, scripting, crypto, ...)
 You can find me on:
 
 <table align="center">
