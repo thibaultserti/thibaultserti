@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 I like security, ops and data science topics and I'm very interested into the their industrialization.
 
-I am a [Professional Google Certified Architect](https://cloud.google.com/certification/cloud-architect), a [Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) and a [Kubernetes Certified Administrator](https://www.cncf.io/certification/cka/).
+I am a [Professional Google Certified Architect](https://cloud.google.com/certification/cloud-architect), a [Terraform Associate](https://www.hashicorp.com/certification/terraform-associate), a [Kubernetes Certified Administrator](https://www.cncf.io/certification/cka/), [Kubernetes Certified Application Developer](https://www.cncf.io/certification/ckad/) and [Kubernetes Certified Security Specialist](https://www.cncf.io/certification/cks/)
 
 I'm also doing a lot of CTFs and challenges in every domain (reverse, scripting, crypto, ...)
 You can find me on:
