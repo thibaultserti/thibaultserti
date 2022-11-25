@@ -31,14 +31,14 @@ I like security, ops and data science topics and I'm very interested into the th
 
 <table align="center">
     <tr>
-        <td align="center"><img src="./certifications/cka.png" width=200px height=200px/></td>
-        <td align="center"><img src="./certifications/cks.png" width=200px height=200px/></td>
-        <td align="center"><img src="./certifications/ckad.png" width=200px height=200px/></td>
+        <td align="center"><a href="https://www.credly.com/users/thibault-ayanides/badges"><img src="./certifications/cka.png" width=200px height=200px/></a></td>
+        <td align="center"><a href="https://www.credly.com/users/thibault-ayanides/badges"><img src="./certifications/cks.png" width=200px height=200px/></a></td>
+        <td align="center"><a href="https://www.credly.com/users/thibault-ayanides/badges"><img src="./certifications/ckad.png" width=200px height=200px/></a></td>
     </tr>
     <tr>
-        <td align="center"><img src="./certifications/gcp_architect.png" width=200px height=200px/></td>
-        <td align="center"><img src="./certifications/gcp_security.png" width=200px height=200px/></td>
-        <td align="center"><img src="./certifications/terraform.png" width=200px height=200px/></td>
+        <td align="center"><a href="https://www.credential.net/profile/thibaultayanides652417/wallet"><img src="./certifications/gcp_architect.png" width=200px height=200px/></a></td>
+        <td align="center"><a href="https://www.credential.net/profile/thibaultayanides652417/wallet"><img src="./certifications/gcp_security.png" width=200px height=200px/></a></td>
+        <td align="center"><a href="https://www.credly.com/users/thibault-ayanides/badges"><img src="./certifications/terraform.png" width=200px height=200px/></a></td>
     </tr>
 </table>
 
