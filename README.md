@@ -22,12 +22,26 @@ Here are some ideas to get you started:
 
 - 🎓 Graduated from <b>[Centrale Lille](https://centralelille.fr) as Data Science and AI specialist</b>
 - 💻 Currently working at <b>[Skale-5](https://skale-5.com) as Cloud Architect and DevOps Engineer</b>
-- ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b> 
+- ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b>
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 I like security, ops and data science topics and I'm very interested into the their industrialization.
 
-I am a [Professional Google Certified Architect](https://cloud.google.com/certification/cloud-architect), a [Terraform Associate](https://www.hashicorp.com/certification/terraform-associate), a [Kubernetes Certified Administrator](https://www.cncf.io/certification/cka/), [Kubernetes Certified Application Developer](https://www.cncf.io/certification/ckad/) and [Kubernetes Certified Security Specialist](https://www.cncf.io/certification/cks/)
+## Certifications
+
+<table align="center">
+    <tr>
+        <td align="center"><img src="./certifications/cka.png" width=200px height=200px/></td>
+        <td align="center"><img src="./certifications/cks.png" width=200px height=200px/></td>
+        <td align="center"><img src="./certifications/ckad.png" width=200px height=200px/></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="./certifications/gcp_architect.png" width=200px height=200px/></td>
+        <td align="center"><img src="./certifications/gcp_security.png" width=200px height=200px/></td>
+        <td align="center"><img src="./certifications/terraform.png" width=200px height=200px/></td>
+    </tr>
+</table>
+
 
 I'm also doing a lot of CTFs and challenges in every domain (reverse, scripting, crypto, ...)
 You can find me on:
@@ -101,7 +115,7 @@ You can find me on:
 [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=ffffff)]()
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)]()
 [![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=ffffff)]()
- 
+
 #### Network
 
 [![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)]()
@@ -109,29 +123,29 @@ You can find me on:
 
 
 #### CI/CD
-    
+
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)]()
 [![Github Actions](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=ffffff)]()
 [![Gitlab CI](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)]()
 [![Argocd](https://img.shields.io/badge/-Argocd-0F1689?style=flat-square&logoColor=ffffff)]()
 
-    
+
 #### Monitoring
 [![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)]()
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)]()
 [![Thanos](https://img.shields.io/badge/-Thanos-6d41ff?style=flat-square&logo=thanos&logoColor=ffffff)]()
 [![Loki](https://img.shields.io/badge/-Loki-D36800?style=flat-square&logo=loki&logoColor=ffffff)]()
-    
+
 
 #### Storage
 
 [![Postgresql](https://img.shields.io/badge/-Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)]()
-    
+
 #### Cloud
- 
+
 [![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=ffffff)]()
 [![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat-square&logo=ovh&logoColor=ffffff)]()
-    
+
 </details>
 
 <details>
