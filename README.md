@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b>
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
+
 I like security, cloud, infrastrcture, dev and data science topics and I'm very interested into the their industrialization.
 
 ## Certifications
