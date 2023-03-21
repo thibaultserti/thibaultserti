@@ -39,7 +39,12 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
     <tr>
         <td align="center"><a href="https://www.credential.net/profile/thibaultayanides652417/wallet"><img src="./certifications/gcp_architect.png" width=200px height=200px/></a></td>
         <td align="center"><a href="https://www.credential.net/profile/thibaultayanides652417/wallet"><img src="./certifications/gcp_security.png" width=200px height=200px/></a></td>
+        <td align="center"><a href="https://www.credential.net/profile/thibaultayanides652417/wallet"><img src="./certifications/gcp_network.png" width=200px height=200px/></a></td>
+    </tr>
+   <tr>
         <td align="center"><a href="https://www.credly.com/users/thibault-ayanides/badges"><img src="./certifications/terraform.png" width=200px height=200px/></a></td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
 </table>
 
