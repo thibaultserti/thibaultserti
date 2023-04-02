@@ -43,7 +43,7 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
     </tr>
    <tr>
         <td align="center"><a href="https://www.credly.com/users/thibault-ayanides/badges"><img src="./certifications/terraform.png" width=200px height=200px/></a></td>
-        <td align="center"></td>
+        <td align="center"><a href="https://www.credly.com/users/thibault-ayanides/badges"><img src="./certifications/azure_fundamentals.png" width=200px height=200px/></a></td>
         <td align="center"></td>
     </tr>
 </table>
