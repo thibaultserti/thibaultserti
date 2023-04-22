@@ -3,12 +3,11 @@
 name: Regenerate badges
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
     inputs:
       name:
         description: 'Manually launched'
-
 
 jobs:
   regenerate-badges:
@@ -23,8 +22,8 @@ jobs:
           cd badges-0.1.4
           wget https://github.com/thibaultserti/badges/releases/download/v0.1.4/badges -O badges
           chmod +x badges
-          ./badges --website cryptohack    --username thibaultserti  --theme dark && cp cryptohack.png ../badges/
-          ./badges --website rootme        --username Thibault-Serti --theme dark && cp rootme.png ../badges/
+          ./badges --website cryptohack    --username thibaultserti  --theme dark  && cp cryptohack.png ../badges/
+          ./badges --website rootme        --username Thibault-Serti --theme dark  && cp rootme.png ../badges/
           ./badges --website newbiecontest --username 85319          --theme light && cp newbiecontest.png ../badges/
           cd ..
           wget https://projecteuler.net/profile/alvin666.png -O badges/projecteuler.png
