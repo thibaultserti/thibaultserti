@@ -1,0 +1,149 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Computacenter
+    url: "https://www.computacenter.com"
+    location: Paris, France
+    # company overview
+    overview: Spécialiste de l'informatique pour les entreprises et premier fournisseur européen de services et de solutions informatiques d'infrastructures.
+  positions:
+  - designation: Chief Technology Officer 
+    start: 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Conseil en cyber sécurité
+    - Définition de la stratégie.
+    - Veille technique.
+    - Technical & Sales Enablement.
+    - Strategie et défintion des réponses aux Appels d'Offre.
+    - Evangelisation.
+    - Relation partenaires.
+    - Certifications HDS & ISO27001
+
+  - designation: Practice Leader 
+    start: 2016
+    end: 2018 
+    responsibilities:
+    - Développement de la stratégie.
+    - Intervenant à différétents évènements du secteur. 
+    - Relation partenaires.
+    - Technical & sales enablement.
+
+  - designation: Solution Architect
+    start: 2015
+    end: 2016 
+    responsibilities:
+    - Technical lead.
+    - Avant vente.
+    - Technical enablement.
+
+- company:
+    name: Ecole 2600
+    url: "https://www.ecole2600.com"
+    location: Saint Quentin, France
+    # company overview
+    overview: École de cybersécurité en alternance. 
+  positions:
+  - designation: Enseignant 
+    start: 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Cours sur les Ransomwares.
+    - Cours sur les Infrastructures IT.
+    - Cours sur la protection des données.
+
+- company:
+    name: French Tech Corporate Community
+    url: "https://www.linkedin.com/company/frenchtechcorporatecommunity/"
+    location: Paris, France
+    # company overview
+    overview: La French Tech Corporate Community fédère les efforts de 90 grands groupes franco-européens autour des défis de leur transformation.
+  positions:
+  - designation: Membre du board
+    start: 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Responsable du chantier Cybersécurité.
+
+- company:
+    name: Groupe AGRICA
+    url: "https://www.groupagrica.com"
+    location: Paris, France 
+    overview: Le Groupe AGRICA est un groupe de protection sociale complémentaire consacré au monde agricole.
+  positions:
+  - designation: "Responsable de l'Architecture et de l'ingénierie."
+    start: 2012
+    end: 2015
+    responsibilities:
+    - Évaluation de l'architecture des systèmes  en place et collaboration avec le personnel technique pour recommander les solutions d'amélioration.
+    - Management d'équipe (2 Architectes & 10 Ingénieurs).
+    - Veille technologique.
+    - Bras droit technique du responsable de la sécurité des systèmes d'information.
+
+  - designation: Architecte Solution 
+    start: 2007
+    end: 2012
+    responsibilities:
+    - Définition et mise en oeuvre de l'architecture technique - Réseau, Stockage, Sécurité et Virtualisation.
+    - Implémentation des processuers  ITIL  - Gestion des changements et des configurations.
+    - Conception et mise en ouvre d'une architecture en dual datacenter avec une protection continue.
+
+
+- company:
+    name: Natexis
+    url: "https://www.natexis.com"
+    location: Charenton, France
+    overview: Natexis est un établissement financier français créé en 2006, filiale du groupe BPCE.
+  positions:
+  - designation: Architecte Datacenter 
+    start: 2002
+    end: 2007
+    responsibilities:
+    - Définition de solutions techniques.
+    - Défintion et application des bonnes pratiques de sécurité.
+    - Réponses aux appels d'offre.
+- company:
+    name: CPAM de Paris
+    url: "https://www.cpam75.fr"
+    location: Paris, France
+    overview: Caisse Primaire d'Assurance Maladie  
+  positions:
+  - designation: Architecte Sécurité
+    start: 2001
+    end: 2002
+    responsibilities:
+    - Mise à jour de la politique de sécurité.
+    - Mise en oeuvre de la nouvelle politique de sécurité.
+    - Formation des collaborateurs de la DSI à la sécurité
+- company:
+    name: DIA
+    url: "https://www.open.global/fr"
+    location: Montrouge, France
+    overview: SSII parisienne employant 160 personnes principalement positionnée auprès de grands comptes du monde financier  
+  positions:
+  - designation: Ingénieur Sécurité chez Caisse Centrale des Banques Populaires 
+    start: 2000
+    end: 2001
+    responsibilities:
+    - Mise en oeuvre des échanges bancaires sécurisés
+  - designation: Ingénieur Système chez Caisse Centrale des Banques Populaires 
+    start: 1999
+    end: 2000
+    responsibilities:
+    - Administrateur de la plateforme de flux boursier 

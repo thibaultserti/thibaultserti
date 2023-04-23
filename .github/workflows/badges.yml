@@ -1,6 +1,5 @@
 ---
-
-name: Regenerate badges
+name: 🔄 Regenerate badges
 on:
   schedule:
     - cron: "0 0 * * 1"

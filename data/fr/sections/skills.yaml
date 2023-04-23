@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Cybersécurité
+  logo: /images/sections/skills/cybersecurite.png
+  summary: "Depuis 2019, je me suis spécialisé dans les cyberattaques en France. Mise en oeuvre d'un CyberSecurity Operation Center pour les clients. Gestion des équipes de réponses sur incident de cybersécurité. Enseignant dans une école de Cybersécurité"
+
+- name: Infrastructure
+  logo: /images/sections/skills/it.png
+  summary: "Définir de nouvelles infrastructures (virtualisation, stockage, réseau, sécurité) on-premise ou hybride."
+
+- name: Avant-vente
+  logo: /images/sections/skills/presales.png
+  summary: "Prendre en compte de l'historique et des besoins des clients pour proposer la meilleure solution en adequation avec leurs besoins futurs."
+
+- name: Stratégie
+  logo: /images/sections/skills/strategy.png
+  summary: "Accompagner les clients dans le défintion de leur la stratégie de transformation numérique."
+#  url: "https://www.docker.com/"
+
+- name: Management
+  logo: /images/sections/skills/management.png
+  summary: "Management de crise, management d'équipe"
+

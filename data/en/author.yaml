@@ -1,0 +1,15 @@
+# some information about you
+name: "Thibault Ayanides"
+nickname: "Thibault"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+image: "assets/author/thibault.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "thibault.ayanides@gmail.com"
+  github: thibaultserti
+  linkedin: thibault-ayanides
+
+# some summary about what you do
+summary:
+  - I am Cloud Architect in Skale 5
+  - I am Cloud Architect in Adeo

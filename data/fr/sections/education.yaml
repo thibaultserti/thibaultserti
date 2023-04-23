@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: École d'ingénieur généraliste, spécialisation en Machine Learning et science des données
+  icon: fa-university
+  timeframe: 2018-2021
+  institution:
+    name: Centralle Lille
+    url: "https://centralelille.fr/"
+  #extracurricularActivities: #(optional)
+  #- Rugby League
+#  grade: #(optional)
+#    scale: CGPA
+#    achieved: 3.6
+#    outOf: 4
+#  publications: #(optional)
+#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    url: "#"
+#  - title: Fusce eu augue ut odio porttitor pulvinar.
+#    url: "#"
+#  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+#    url: "#"
+- name: Classes préparatoires aux grandes écoles (CPGE) MPSI-MP*
+  icon: fa-graduation-cap
+  timeframe: 2016 - 2018
+  institution:
+    name: Lycée Hoche
+    url: "http://www.lyc-hoche-versailles.ac-versailles.fr/spip.php?rubrique5"

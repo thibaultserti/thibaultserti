@@ -1,0 +1,118 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Cloud Architect and SRE
+# your company information
+company:
+  name: Skale 5
+  url: "https://www.skale-5.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: ""
+
+# a summary about you
+summary: 'As a Cloud Architect, I am in charge of designing, building and deploying different kind of infrastructure at our customers. Although I am specialized on Public Cloud Google Cloud Platform, I am also proficient with other public cloud providers and with on-premise infrastructure.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "thibault.ayanides@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/thibaultserti"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/thibault-ayanides"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "https://twitter.com/"
+
+- name: Blog
+  icon: "fab fa-blogger-b"
+  url: "https://thibaultserti.github.io"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: "Microsoft Certified: Azure Fundamentals"
+  url: "https://www.credly.com/earner/earned/badge/bbd17253-5c9a-4cbf-b9d2-74a226746ef7"
+  badge: "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+
+- type: certification
+  name: Fundamentals for Kyverno
+  url: "https://www.credly.com/earner/earned/badge/9bb96ee2-c30b-42e5-aac8-4a87732ecfd8"
+  badge: "https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png"
+
+- type: certification
+  name: "CKS: Certified Kubernetes Security Specialist"
+  url: "https://www.credly.com/earner/earned/badge/726f2ad9-1c6c-4ca4-af3b-ae4c742d2da9"
+  badge: "https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"
+
+- type: certification
+  name: "CKAD: Certified Kubernetes Application Developer"
+  url: "https://www.credly.com/earner/earned/badge/de1f6a65-b473-4aa5-a579-322fedf20e69"
+  badge: "https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"
+
+- type: certification
+  name: "HashiCorp Certified: Terraform Associate (002)"
+  url: "https://www.credly.com/earner/earned/badge/dfa558bc-78d0-4df7-aac0-4a6e053a129d"
+  badge: "https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
+
+- type: certification
+  name: "CKA: Certified Kubernetes Administrator"
+  url: "https://www.credly.com/earner/earned/badge/d9dfaeb2-b6c8-4dac-9bd4-782aaa9b72f8"
+  badge: "https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+
+- type: certification
+  name: Professional Cloud Architect
+  url: "https://www.credential.net/da4b0377-22d9-406b-8dfe-55c37a950590"
+  badge: "https://templates.images.credential.net/16590181582433100721069374350922.png"
+
+- type: certification
+  name: Professional Cloud Security Engineer
+  url: "https://www.credential.net/5344b2c1-0704-41e8-9235-9459b1a490d9"
+  badge: "https://templates.images.credential.net/16590189116921664807425410566136.png"
+
+- type: certification
+  name: Professional Cloud Network Engineer
+  url: "https://www.credential.net/76085228-8506-4fca-931c-e52e44753f63"
+  badge: "https://templates.images.credential.net/16590188739562332286578075626342.png"
+
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
+
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 90
+#   color: yellow
+
+# - type: soft-skill-indicator
+#   name: Hard Working
+#   percentage: 90
+#   color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
