@@ -30,7 +30,7 @@ jobs:
           wget http://www.hackthebox.eu/badge/image/384113 -O assets/images/badges/hachthebox.png
 
       - name: Add badges and commit
-        uses: EndBug/add-and-commit@v9.1.1
+        uses: EndBug/add-and-commit@v9.1.3
         with:
           add: 'assets/images/badges/cryptohack.png assets/images/badges/rootme.png assets/images/badges/newbiecontest.png assets/images/badges/projecteuler.png assets/images/badges/tryhackme.png assets/images/adges/hackthebox.png'
           message: 'Regenerate badges (Github actions)'
