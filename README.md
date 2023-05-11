@@ -63,7 +63,7 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
     <a href="https://puppet.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40"/> </a>
     <a href="https://www.packer.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/> </a>
     <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-    <a href="https://www.vaultproject.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/> </a>
+    <a href="https://www.vaultproject.io/" target="_blank"> <img src="assets/images/stack-logos/vault.svg" alt="vault" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
