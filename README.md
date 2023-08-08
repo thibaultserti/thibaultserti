@@ -56,6 +56,9 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
     <a href="https://grafana.com/oss/loki" target="_blank"> <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" alt="loki" width="40" height="40"/> </a>
     <a href="https://grafana.com/oss/tempo/" target="_blank"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
     <a href="https://datadoghq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a>
+    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://github.com/cncf/artwork/blob/master/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
+    <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="40" height="40"/> </a>
+
 </p>
 <p align="left">
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
@@ -69,7 +72,7 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
     <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
     <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     <a href="https://www.fastatpi.tiangolog.com/" target="_blank"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/52a46e5a-5757-494c-9b96-1f7a0dce2cd0.svg" alt="bash" width="80" height="40"/>
 </p>
 <p align="left">
     <a href="https://git.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
