@@ -44,7 +44,6 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
     <a href="https://argoproj.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/> </a>
     <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/> </a>
     <a href="https://kustomize.io/" target="_blank"> <img src="assets/images/stack-logos/kustomize.png" alt="kustomize" width="40" height="40"/> </a>
-    <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
     <a href="https://cilium.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" alt="cilium" width="40" height="40"/> </a>
     <a href="https://docs.tigera.io/calico/latest/getting-started/kubernetes/" target="_blank"> <img src="https://gitlab.com/celebdor/design/-/raw/master/logos/calico_head.svg" alt="calico" width="40" height="40"/> </a>
 
@@ -66,7 +65,14 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
     <a href="https://puppet.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40"/> </a>
     <a href="https://www.packer.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/> </a>
     <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+</p>
+</p>
+<p align="left">
     <a href="https://www.vaultproject.io/" target="_blank"> <img src="assets/images/stack-logos/vault.svg" alt="vault" width="40" height="40"/> </a>
+    <a href="https://falco.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/falco/falco-icon.svg" alt="falco" width="40" height="40"/> </a>
+    <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
+    <a href="https://trivy.dev/" target="_blank"> <img src="https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg" alt="trivy" width="40" height="40"/> </a>
+    <a href="https://tetragon.cilium.io/" target="_blank"> <img src="https://isovalent.com/static/aecb17fbc1c31ca8eedeef273c283e94/b42f4/illustration.png" alt="tetragon" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://traefik.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="go" width="40" height="40"/>
@@ -75,7 +81,7 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
 <p align="left">
     <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
     <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    <a href="https://www.fastatpi.tiangolog.com/" target="_blank"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/>
+    <a href="https://www.fastapi.tiangolog.com/" target="_blank"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/52a46e5a-5757-494c-9b96-1f7a0dce2cd0.svg" alt="bash" width="80" height="40"/>
 </p>
 <p align="left">
