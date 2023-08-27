@@ -93,7 +93,7 @@ I like security, cloud, infrastrcture, dev and data science topics and I'm very 
 <p align="left">
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-    <a href="https://ovhcloud.com" target="_blank"> <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/cf1d90715055ce7737413401b392b34cf1da94d2/src/drivers/webextension/images/icons/OVHcloud.svg" alt="ovhcloud" width="40" height="40"/> </a>
+    <a href="https://ovhcloud.com" target="_blank"> <img src="https://companieslogo.com/img/orig/OVH.PA-635db442.png" alt="ovhcloud" width="40" height="40"/> </a>
 </p>
 <br>
 
