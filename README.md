@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 
-I like security, cloud, infrastrcture, dev and data science topics and I'm very interested into the their industrialization.
+I like security, cloud, infrastructure, dev and data science topics and I'm very interested into the their industrialization.
 
 <h2>My technology stack</h2>
 <p align="left">
