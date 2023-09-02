@@ -77,6 +77,8 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
 <p align="left">
     <a href="https://traefik.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="go" width="40" height="40"/>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
+    <a href="https://cloudflare.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
+
 </p>
 <p align="left">
     <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
