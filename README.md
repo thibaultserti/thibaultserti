@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🎓 Graduated from <b>[Centrale Lille](https://centralelille.fr) as Data Science and AI specialist</b>
 - 💻 Currently working at <b>[Skale-5](https://skale-5.com) as Cloud Architect and DevOps Engineer</b>
 - 🛠️ On a mission at <b>[Adeo](https://adeo.com) as Cloud Architect and Python Developer</b>
+- ✏️ Teacher at <b>[Efficom](https://www.efficom.fr/)</b>
 - ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b>
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
