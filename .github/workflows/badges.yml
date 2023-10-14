@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Generate badges
         run: |
           wget https://github.com/thibaultserti/badges/archive/v0.1.4.tar.gz
