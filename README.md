@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 # Welcome to my GitHub page!
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://thibaultserti.github.io)
-[![Resume](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://storage.googleapis.com/resume-thibault-ayanides/resume.pdf/resume.pdf)
+[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://thibaultserti.github.io)
+[![Resume](https://img.shields.io/badge/resume-up-blue)](https://storage.googleapis.com/resume-thibault-ayanides/resume.pdf/resume.pdf)
 [![followers](https://img.shields.io/github/followers/thibaultserti?style=social)](https://github.com/thibaultserti?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ovh/debian-cis)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thibault-ayanides/)
