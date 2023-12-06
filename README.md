@@ -57,7 +57,7 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
     <a href="https://grafana.com/oss/loki" target="_blank"> <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" alt="loki" width="40" height="40"/> </a>
     <a href="https://grafana.com/oss/tempo/" target="_blank"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
     <a href="https://datadoghq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a>
-    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://github.com/cncf/artwork/blob/master/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
+    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
     <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="40" height="40"/> </a>
 
 </p>
