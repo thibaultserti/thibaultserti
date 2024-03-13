@@ -56,6 +56,8 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
     <a href="https://grafana.com/oss/grafana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
     <a href="https://grafana.com/oss/loki" target="_blank"> <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" alt="loki" width="40" height="40"/> </a>
     <a href="https://grafana.com/oss/tempo/" target="_blank"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
+    <a href="https://grafana.com/oss/pyroscope/" target="_blank"> <img src="https://grafana.com/static/img/pyroscope-logo.svg" alt="pyroscope" width="40" height="40"/> </a>
+    <a href="https://victoriametrics.com/" target="_blank"> <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/b248d19ce7d119443dd9d2f1ef5fa98064594d19/assets/victoriametrics-white.svg" alt="pyroscope" width="40" height="40"/> </a>
     <a href="https://datadoghq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a>
     <a href="https://opentelemetry.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
     <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="40" height="40"/> </a>
@@ -72,6 +74,7 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
 <p align="left">
     <a href="https://www.vaultproject.io/" target="_blank"> <img src="assets/images/stack-logos/vault.svg" alt="vault" width="40" height="40"/> </a>
     <a href="https://falco.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/falco/falco-icon.svg" alt="falco" width="40" height="40"/> </a>
+    <a href="https://www.openpolicyagent.org/" target="_blank"> <img src="https://github.com/open-policy-agent/opa/blob/main/logo/logo.png" alt="gatekeeper" width="40" height="40"/> </a>
     <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
     <a href="https://trivy.dev/" target="_blank"> <img src="https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg" alt="trivy" width="40" height="40"/> </a>
     <a href="https://tetragon.cilium.io/" target="_blank"> <img src="https://isovalent.com/static/aecb17fbc1c31ca8eedeef273c283e94/b42f4/illustration.png" alt="tetragon" width="40" height="40"/> </a>
