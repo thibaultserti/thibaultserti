@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thibault-ayanides/)
 
 - 🎓 Graduated from <b>[Centrale Lille](https://centralelille.fr) as Data Science and AI specialist</b>
-- 💻 Freelance DevOps/CloudOps/SRE/Software Engineer </b>
+- 💻 Freelance <b> DevOps/CloudOps/SRE/Software Engineer </b>, specialized in <b>containers</b> and <b>Kubernetes</b>
 - 🛠️ On a mission at <b>[Adeo](https://adeo.com) as Kubernetes Platform Engineer</b>
 - ✏️ Teacher at <b>[Efficom](https://www.efficom.fr/)</b>
 - ⚡ Trainer for <b>[Rezoleo](https://github.com/rezoleo)</b>
