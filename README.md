@@ -48,6 +48,7 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
     <a href="https://kustomize.io/" target="_blank"> <img src="assets/images/stack-logos/kustomize.png" alt="kustomize" width="40" height="40"/> </a>
     <a href="https://cilium.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" alt="cilium" width="40" height="40"/> </a>
     <a href="https://docs.tigera.io/calico/latest/getting-started/kubernetes/" target="_blank"> <img src="https://gitlab.com/celebdor/design/-/raw/master/logos/calico_head.svg" alt="calico" width="40" height="40"/> </a>
+    <a href="https://airflow.apache.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" alt="airflow" width="40" height="40"/> </a>
 
 </p>
 <p align="left">
@@ -101,6 +102,8 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
     <a href="https://ovhcloud.com" target="_blank"> <img src="https://companieslogo.com/img/orig/OVH.PA-635db442.png" alt="ovhcloud" width="40" height="40"/> </a>
+        <a href="https://scaleway.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg"" alt="scaleway" width="40" height="40"/> </a>
+
 </p>
 <br>
 
