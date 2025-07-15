@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🎓 Graduated from <b>[Centrale Lille](https://centralelille.fr) as Data Science and AI specialist</b>
 - 💻 Freelance <b>DevOps/CloudOps/SRE/Software Engineer</b>, specialized in <b>containers</b> and <b>Kubernetes</b>
 - 🛠️ On a mission at <b>[Adeo](https://adeo.com) as Kubernetes Platform Engineer</b>
-
+- 🎓 Trainer at <b>[Ambient-it](https://www.ambient-it.net/)</b>
 
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 
