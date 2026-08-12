@@ -77,7 +77,7 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
     <a href="https://www.openpolicyagent.org/" target="_blank"> <img src="https://github.com/open-policy-agent/opa/blob/main/logo/logo.png" alt="gatekeeper" width="40" height="40"/> </a>
     <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
     <a href="https://trivy.dev/" target="_blank"> <img src="https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg" alt="trivy" width="40" height="40"/> </a>
-    <a href="https://tetragon.cilium.io/" target="_blank"> <img src="https://isovalent.com/static/aecb17fbc1c31ca8eedeef273c283e94/b42f4/illustration.png" alt="tetragon" width="40" height="40"/> </a>
+    <a href="https://tetragon.cilium.io/" target="_blank"> <img src="https://tetragon.io/images/home/hero-illustration.png" alt="tetragon" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://traefik.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="go" width="40" height="40"/>
