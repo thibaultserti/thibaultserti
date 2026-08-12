@@ -88,7 +88,7 @@ I like security, cloud, infrastructure, dev and data science topics and I'm very
 <p align="left">
     <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
     <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    <a href="https://www.fastapi.tiangolog.com/" target="_blank"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/>
+    <a href="https://www.fastapi.tiangolog.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/141/126/png-transparent-fastapi-hd-logo-thumbnail.png" alt="fastapi" width="40" height="40"/>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/52a46e5a-5757-494c-9b96-1f7a0dce2cd0.svg" alt="bash" width="80" height="40"/>
 </p>
 <p align="left">
